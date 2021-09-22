@@ -1,4 +1,4 @@
-# Intel&reg; RealSense&trade; LiDAR Camera L515
+# Intel&reg; RealSense&trade; LiDAR Camera L515 L Bracket with 6x8 Hole Plate Mount Points
 
 3D and 2D Sketchup models for an L-Bracket with mount points for the Intel&reg; RealSense&trade; LiDAR Camera L515 and ServoCity&reg 6x8 Hole Pattern Plate.
 
